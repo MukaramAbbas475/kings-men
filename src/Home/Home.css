@@ -1,0 +1,61 @@
+.section1{
+  background-image: url("../Images/home-bg.jpg");
+  width: 100%;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.section1_main{
+  text-align: center;
+  padding-top:8%;
+}
+.sec1_txt1{
+  font-size: 50px;
+  font-weight: bolder;
+  color: #f58a04;
+  font-family:" Cursive";
+  text-shadow: rgb(4, 155, 105);
+ }
+
+.sec1_txt2{
+  font-family:" Cursive";
+  font-size:60px ;
+  text-shadow: rgb(4, 155, 105);
+}
+.sec1_txt3{
+  font-size:40px ;
+  font-family: fantasy;
+  /* font-weight: bolder; */
+  padding: 15px;
+  color: #f58a04;
+}
+
+.sec1_txt3:hover{
+  color: rgb(80, 79, 78);
+font-family: "  Merriweather";
+
+}
+
+/* .section1{
+  background: repeating-linear-gradient(
+    45deg,
+    yellow 0px,
+    yellow 40px,
+    black 40px,
+    black 80px
+  ); 
+  background-position: right bottom;
+  transition: all .5s ease-out;
+  background-size: 200% 100%;
+  display: block;
+  width: 100%;
+  height: 300px;
+  font-size: 50px;
+  color: aliceblue;
+  font-weight: bolder;
+  text-align: center;
+}
+.section1:hover{
+  background-position: left bottom;
+} */

@@ -1,0 +1,22 @@
+.Main{
+    width: 100%;
+    height: 820px;
+    padding-top: 4%;
+    background-color: burlywood;
+}
+.view_section1{
+    display: flex;
+}
+.view-img{
+    height: 500px;
+    object-fit: center;
+    width: 100%;
+}
+.view_txt{
+    text-align: center;
+}
+.view_head{
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: cursive;
+}
